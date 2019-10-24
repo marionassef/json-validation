@@ -14,6 +14,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
@@ -22,6 +25,7 @@
   </component>
   <component name="ProjectId" id="1SYfv26FVbXZzu86ryhRDLyqK72" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -53,6 +57,7 @@
       <workItem from="1571831661949" duration="16521000" />
       <workItem from="1571855389092" duration="575000" />
       <workItem from="1571913584605" duration="2690000" />
+      <workItem from="1571925270989" duration="209000" />
     </task>
     <servers />
   </component>
